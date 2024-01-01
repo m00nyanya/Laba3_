@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Laba3_;
 
-Console.WriteLine("Hello, World!");
+namespace Laba3_
+{
+    class Program
+    {
+        private static void Main(string[] args)
+        {
+            new NoteBook();
+        }
+    }
+}
